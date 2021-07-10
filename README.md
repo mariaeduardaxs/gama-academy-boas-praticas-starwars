@@ -23,3 +23,5 @@ Para instalar o node [clique aqui](https://nodejs.org/en/)
 Veja o projeto online [clique aqui](https://gama-academy-boas-praticas-starwars.vercel.app/)
 
 ## Professor Douglas Morais
+
+https://www.figma.com/file/De1yoDgoNqMKY0AYX5ZncM/Boas-pr%C3%A1ticas?node-id=1%3A3
